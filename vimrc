@@ -17,7 +17,7 @@ set showmatch
 set incsearch
 set nostartofline
 set fileencoding=utf-8
-set nowrap
+set wrap
 set linebreak
 set listchars=tab:\ \ ,trail:·
 set list
